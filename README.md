@@ -1,2 +1,2 @@
-# Gaianet
+gaianet
 Gaianet Node Run
